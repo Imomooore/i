@@ -1,1 +1,1 @@
-@import "{{ midnight }}";
+@import "jekyll-theme-midnight";
